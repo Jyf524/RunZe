@@ -1,0 +1,43 @@
+﻿body {
+
+
+}
+
+ #content
+{
+    width:1200px;
+    margin:20px auto;
+    display:block;
+}
+
+.content_top_word {
+    float:left;
+    font-size:24px;
+    text-align:center;
+}
+
+.content_word {
+
+    font-size:16px;
+
+}
+
+.btn_check {
+    float:left;
+    margin-top:35px;
+    margin-left:170px;
+    color:#fff;
+    background:#f00;
+    width:100px;
+    height:50px;
+}
+
+.btn_back {
+    float:left;
+    margin-top:35px;
+    margin-left:450px;
+    color:#fff;
+    background:#808080;
+    width:100px;
+    height:50px;
+}

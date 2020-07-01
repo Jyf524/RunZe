@@ -1,0 +1,261 @@
+/* CSS Document */
+#header
+{
+	width:100%;
+	height:50px;
+	}
+
+a {     
+    text-decoration:none;
+    color:#000;
+}
+	
+.header_k
+{
+	width:100%;
+	height:50px;
+	}
+	
+.header_world1
+{
+	font-size:12px; 
+	width:60px;
+	height:20px;
+	float:left;
+	}
+	
+.header_world2
+{
+	margin-left:10px;
+	margin-top:10px;
+	font-size:28px;
+	width:300px;
+	height:20px;
+	float:left;
+	color:#FFF;
+	}
+	
+.header_k2
+{
+	width:1024px;
+	height:100px;
+	float:left;
+	}
+	
+.header_logo
+{
+	width:80px;
+	height:80px;
+	float:left;
+	background:url(../image/Logo.PNG) no-repeat;
+	}
+	
+.header_logoworld1
+{
+	width:200px;
+	height:40px;
+	font-size:24px;
+	margin-top:20px;
+}
+	
+.header_logoworld2
+{
+	width:120px;
+	height:40px;
+	font-size:24px;
+	float:left;
+}
+
+.header_logoworld3
+{
+	width:180px;
+	height:60px;
+	font-size:24px;
+	float:left;
+}
+
+.header_welcome
+{
+	margin-top:15px;
+	float:right;
+	width:220px;
+	height:35px;
+}
+
+.header_welcomeword
+{
+	float:left;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	color:#FFF;
+}
+
+.header_logousername
+{
+	float:left;
+	width:50px;
+	height:30px;
+	color:#FFF;
+	font-size:18px;
+}
+
+.header_logouserout
+{
+	margin-right:25px;
+	float:right;
+	width:45px;
+	height:40px;
+	font-size:18px;
+}
+
+#content
+{
+	width:100%;
+	height:685px;
+	float:left;
+	background:#374db0;
+}
+.content_k
+{
+	margin-left:100px;
+	width:1600px;
+	height:690px;
+	float:left;
+	background:#374db0;
+}
+
+.content_banner
+{
+	margin-left:100px;
+	width:950px;
+	height:685px;
+	background:url(../image/banner.png);
+	float:left;
+}
+
+.content_Login
+{
+	background:#FFF;
+	margin-left:20px;
+	margin-top:50px;
+	width:520px;
+	height:575px;
+	border:1px solid #000;
+	float:left;
+}
+
+.content_username
+{
+	font-size:28px;
+	margin-left:90px;
+	margin-top:100px;
+}
+
+.lbl_user
+{
+	width:200px;
+	height:30px;
+}
+
+.content_password
+{
+	font-size:28px;
+	margin-left:90px;
+	margin-top:50px;
+}
+
+.lbl_password
+{
+	width:200px;
+	height:30px;
+}
+
+.content_code_k
+{
+    float:left;
+    width:420px;
+	text-align:left;
+	font-size:28px;
+	margin-left:90px;
+	margin-top:50px;
+    height: 40px;
+}
+
+.content_code {
+    float:left;
+    margin-left:10px;
+}
+
+.content_code_word {
+    float:left;
+
+}
+
+.lbl_code
+{
+    float:left;
+	width:40px;
+	height:30px;
+}
+
+
+
+.content_Logincheck
+{
+    float:left;
+	margin-left:100px;
+	margin-top:50px;
+	
+}
+
+.lbl_Login
+{
+	color:#FFF;
+	width:312px;
+	height:55px;
+	background:#36c7fc;
+	line-height:37px;
+	font-size:20px;
+	font-weight: bold;
+	}
+	
+.content_Logincheck2
+{
+    float:left;
+	margin-left:400px;
+	margin-top:30px;
+}
+
+.lbl_Login2
+{
+    float:left;
+	color:#FFF;
+	width:100px;
+	height:55px;
+	background:#517aba;
+	line-height:37px;
+	font-size:20px;
+	font-weight: bold;
+}
+
+#footer
+{
+	width:100%;
+	height:100px;
+	float:left;
+}
+	
+.footer_copyright
+{
+	line-height:7px;
+	margin-left:700px;
+	font-size:10px;
+	width:500px;
+	height:100px;
+	float:left;
+}
+.backlogin {
+    float:right;
+    font-size:16px;
+}

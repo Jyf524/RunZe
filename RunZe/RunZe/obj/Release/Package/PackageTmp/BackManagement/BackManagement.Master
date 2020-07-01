@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BackManagement.master.cs" Inherits="RunZe.BackManagement.BackManagement" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="../css/style.css" rel="stylesheet" />
+    <link href="../css/BackIndex.css" rel="stylesheet" />
+    <link href="../css/Backddgl.css" rel="stylesheet" />
+    <link href="../css/Backddxx.css" rel="stylesheet" />
+    <link href="../css/Backflb.css" rel="stylesheet" />
+    <link href="../css/Backflbadd.css" rel="stylesheet" />
+    <link href="../css/Backhygl.css" rel="stylesheet" />
+    <link href="../css/Backspadd.css" rel="stylesheet" />
+    <link href="../css/Backspxx.css" rel="stylesheet" /> 
+    <link href="../css/Backspxxgl.css" rel="stylesheet" />
+    <link href="../css/Backzlb.css" rel="stylesheet" />
+    <link href="../css/Backzlbadd.css" rel="stylesheet" />
+    <link href="../css/Backlbgl.css" rel="stylesheet" />
+    <link href="../css/Backyhxxxx.css" rel="stylesheet" />
+    <link href="../css/Backzlbgl.css" rel="stylesheet" />
+    <script src="../ueditor/ueditor.config.js"></script>
+    <script src="../ueditor/ueditor.all.min.js"></script>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+   <div id="header">
+  <div class="header_k">
+    <div class="header_world2">润泽电商管理系统</div>
+    <div class="header_welcome">
+    <div class="header_welcomeword">欢迎回来！</div>
+    <div class="header_logousername">
+        <asp:Label ID="Label1" runat="server" Text="用户名"></asp:Label>
+    </div>
+    <div class="header_logouserout">
+        <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">注销</asp:LinkButton></div>
+    </div>
+  </div>
+ </div>
+ <div id="content">
+
+ <div class="content_main">
+      <div class="content_xian"></div>
+ <div class="content_main_left">
+  <div class="content_main_left_2"><a href="/BackManagement/Backhygl.aspx">会员管理</a>
+ <div class="content_xian1"></div>
+ </div>
+  <div class="content_main_left_3"><a href="/BackManagement/Backspxxgl.aspx">商品管理</a>
+ <div class="content_xian1"></div>
+ </div>
+  <div class="content_main_left_4"><a href="/BackManagement/Backddgl.aspx">订单管理</a>
+ <div class="content_xian1"></div>
+ </div>
+   <div class="content_main_left_5"><a href="/BackManagement/Backlbgl.aspx">类别管理</a>
+ <div class="content_xian1"></div>
+ </div>
+ </div>
+<div class="content_main_right">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      
+      </asp:ContentPlaceHolder>
+</div>
+ </div>
+ </div>
+<%-- <div id="footer">
+</div>--%>
+       
+    </form>
+</body>
+</html>

@@ -1,0 +1,289 @@
+﻿a
+{
+	text-decoration:none;
+	color:#FFF;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	font-family:'微软雅黑';
+	font-size:12px;
+	}
+	
+#header
+{
+	width:100%;
+	height:50px;
+	}
+	
+.header_k
+{
+	width:100%;
+	height:50px;
+	background:#517aba;
+	}
+	
+.header_world1
+{
+	font-size:12px; 
+	width:60px;
+	height:20px;
+	float:left;
+	}
+	
+.header_world2
+{
+	margin-left:10px;
+	margin-top:10px;
+	font-size:28px;
+	width:300px;
+	height:20px;
+	float:left;
+	color:#FFF;
+	}
+	
+.header_k2
+{
+	width:1024px;
+	height:100px;
+	float:left;
+	}
+	
+.header_logo
+{
+	width:80px;
+	height:80px;
+	float:left;
+	background:url(../image/Logo.PNG) no-repeat;
+	}
+	
+.header_logoworld1
+{
+	width:160px;
+	height:40px;
+	font-size:24px;
+	margin-top:20px;
+}
+	
+.header_logoworld2
+{
+	width:120px;
+	height:40px;
+	font-size:24px;
+	float:left;
+}
+
+.header_logoworld3
+{
+	width:180px;
+	height:60px;
+	font-size:24px;
+	float:left;
+}
+
+.header_welcome
+{
+	margin-top:15px;
+    margin-right:50px;
+	float:right;
+	width:320px;
+	height:35px;
+}
+
+.header_welcomeword
+{
+	float:left;
+	width:100px;
+	height:30px;
+	font-size:18px;
+	color:#FFF;
+}
+
+.header_logousername
+{
+	float:left;
+	width:50px;
+	height:30px;
+	color:#FFF;
+	font-size:18px;
+}
+
+.header_logouserout
+{
+	margin-right:25px;
+	float:right;
+	width:45px;
+	height:40px;
+	font-size:18px;
+}
+
+.content_xian
+{
+	float:left;
+	width:100%;
+	border-bottom:2px solid #000;
+}
+
+.content_main
+{
+	float:left;
+	width:100%;
+	height:450px;
+}
+
+.content_main_left{
+	float:left;
+	width:10%;
+	height:1200px;
+	background:#517aba;
+	
+	}
+	
+.content_main_left_1
+{
+	margin-top:10px;
+	text-align:center;
+	color:#FFF;
+	font-size:12px;
+	float:left;
+	width:100%;
+	height:36px;
+}
+
+
+.content_xian1
+{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #000;
+}
+
+.content_main_left_2
+{
+	text-align:center;
+	color:#FFF;
+	font-size:16px;
+	float:left;
+	width:100%;
+	height:36px;
+    line-height:36px;
+}
+
+    .content_main_left_2:hover 
+    {
+    background-image:url(../image/pass.png);
+    }
+
+.content_xian2
+{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #000;
+}
+
+.content_main_left_3
+{
+	text-align:center;
+	color:#FFF;
+	font-size:16px;
+	float:left;
+	width:100%;
+	height:36px;
+     line-height:36px;
+}
+
+    .content_main_left_3:hover 
+    {
+    background-image:url(../image/pass.png);
+    }
+
+.content_xian3
+{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #000;
+}
+
+.content_main_left_4
+{
+    text-align:center;
+	color:#FFF;
+	font-size:16px;
+	float:left;
+	width:100%;
+	height:36px;
+     line-height:36px;
+}
+
+    .content_main_left_4:hover 
+    {
+    background-image:url(../image/pass.png);
+    }
+
+.content_xian4
+{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #000;
+}
+
+.content_main_left_5
+{
+	text-align:center;
+	color:#FFF;
+	font-size:16px;
+	float:left;
+	width:100%;
+	height:36px;
+     line-height:36px;
+}
+
+    .content_main_left_5:hover 
+    {
+    background-image:url(../image/pass.png);
+    }
+
+.content_xian5
+{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #000;
+}
+
+#footer
+{
+	width:100%;
+	height:100px;
+	float:left;
+}
+	
+.footer_copyright
+{
+	line-height:7px;
+	margin-left:700px;
+	font-size:10px;
+	width:500px;
+	height:100px;
+	float:left;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

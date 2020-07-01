@@ -1,0 +1,114 @@
+/* CSS Document */
+
+#content
+{
+	width:100%;
+	height:685px;
+	float:left;
+	background:#374db0;
+}
+.content_k
+{
+	margin-left:100px;
+	width:1600px;
+	height:690px;
+	float:left;
+	background:#374db0;
+}
+
+.content_banner
+{
+	margin-left:100px;
+	width:950px;
+	height:685px;
+	background:url(../image/banner.png);
+	float:left;
+}
+
+.content_Login
+{
+	background:#FFF;
+	margin-left:20px;
+	margin-top:50px;
+	width:520px;
+	height:575px;
+	border:1px solid #000;
+	float:left;
+}
+
+.content_username
+{
+	font-size:28px;
+	margin-left:90px;
+	margin-top:100px;
+}
+
+.lbl_user
+{
+	width:200px;
+	height:30px;
+}
+
+.content_password
+{
+	font-size:28px;
+	margin-left:90px;
+	margin-top:50px;
+}
+
+.lbl_password
+{
+	width:200px;
+	height:30px;
+}
+
+.content_code
+{
+	text-align:left;
+	font-size:28px;
+	margin-left:90px;
+	margin-top:50px;
+}
+
+.lbl_code
+{
+	width:80px;
+	height:20px;
+}
+
+
+
+.content_Logincheck
+{
+	margin-left:100px;
+	margin-top:50px;
+	
+}
+
+.lbl_Login
+{
+	color:#FFF;
+	width:312px;
+	height:55px;
+	background:#36c7fc;
+	line-height:37px;
+	font-size:20px;
+	font-weight: bold;
+	}
+	
+.content_Logincheck2
+{
+	margin-left:400px;
+	margin-top:30px;
+}
+
+.lbl_Login2
+{
+	color:#FFF;
+	width:100px;
+	height:55px;
+	background:#517aba;
+	line-height:37px;
+	font-size:20px;
+	font-weight: bold;
+}

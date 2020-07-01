@@ -1,0 +1,201 @@
+﻿.a
+{
+    text-decoration:none;
+       }
+
+body {
+    margin:0;
+	padding:0;
+	font-family:'微软雅黑';
+	font-size:14px;
+}
+
+#header
+{
+	float:left;
+	width:100%;
+	height:120px;
+	}
+.header_k
+{
+	float:left;
+	width:100%;
+	height:36px;
+	background:#eaeaea;
+	}
+.header_text
+{
+	float:left;
+	width:200px;
+	height:36px;
+	margin-left:20%;
+	}
+.header_text_a_1
+{
+	line-height:36px;
+	color:red;
+    text-decoration:none;
+	}
+.header_text_a
+{
+	line-height:36px;
+	color:#6f6f6f;
+	margin-left:20px;
+    text-decoration:none;
+	}
+.header_text_2
+{
+	float:left;
+	width:400px;
+	height:36px;
+	margin-left:30%;
+	}
+
+.header_logo
+{
+	float:left;
+	height:70px;
+	width:180px;
+	margin-top:10px;
+	margin-left:25%;
+	background:url(../image/Logo.png) no-repeat;
+	}
+.header_logo_word
+{
+	float:left;
+	margin-top:12px;
+	margin-left:70px;
+	}
+.header_logo_a
+{
+	text-decoration:none;
+	color:#000;
+	font-size: 18px;
+	}
+
+#content
+{
+	float:left;
+	width:100%;
+	height:450px;
+    position: relative;
+	}
+.content_text
+{
+	float:left;
+	width:60%;
+	height:60px;
+	font-size:20px;
+	margin-left:20%;
+	line-height:60px;
+	border-bottom:2px solid #dddddd;
+	}
+.content_text_1
+{
+	float:left;
+	width:200px;
+	height:60px;
+	margin-left:5%;
+	}
+.content_main
+{
+	float:left;
+	width:40%;
+	height:500px;
+	margin-left:30%;
+	}
+.content_main_1
+{
+	float:left;
+	width:600px;
+	height:400px;
+	margin-left:10%;
+	margin-top:30px;
+	}
+.content_main_table
+{
+	float:left;
+	width:600px;
+	
+	}
+.content_main_tr
+{
+	width:50%;
+	height:50px;
+	margin-top:20px;
+	}
+.cl_input1
+{
+	float:left;
+	width:97px;
+	height:29px;
+	}
+.cl_input_yanzhengma
+{
+	float:left;
+	width:100px;
+	height:23px;
+    margin-left:3px;
+	}
+.content_button
+{
+	float:left;
+	width:100%;
+	margin-top:20px;
+	}
+.cl_login
+{
+	float:left;
+	width:275px;
+	height:40px;
+	margin-top:20px;
+	margin-left:75px;
+	background:#36c7fc;
+	text-align:center;
+	color:#fffbff;
+	line-height:37px;
+	font-size:20px;
+	font-weight: bold;
+	border-style:none;
+	cursor:pointer;
+	}
+.content_tab_look
+{
+	float:left;
+    width: 90px;
+    height: 30px;
+	margin-left:50px;
+	cursor:pointer;
+	}
+
+.zctk {
+    float:left;
+    margin-left:170px;
+
+}
+
+#footer
+{
+    margin-left:50%;
+	float:left;
+	width:1200px;
+	margin-top:100px;
+	margin-left:650px;
+    position: relative;
+	}
+.footer_text
+{
+	float:left;
+	width:100%;
+	height:20px;
+	margin-top:5px;
+	color:#656567;
+	}
+.footer_text1
+{
+	float:left;
+	width:100%;
+	height:47px;
+	margin-top:5px;
+	color:#656567;
+	}

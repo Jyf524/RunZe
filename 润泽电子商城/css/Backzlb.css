@@ -1,0 +1,67 @@
+/* CSS Document */
+
+.content_main_right
+{
+	float:left;
+	width:793px;
+	height:800px;
+}
+
+
+.content_main_flb
+{
+	float:left;
+}
+
+.content_main_word
+{
+	margin-top:40px;
+	margin-left:50%;
+	font-size:16px;
+	width:250px;
+	height:55px;
+}
+
+.content_flzxg
+{
+	margin-top:40px;
+	margin-left:40%;
+	font-size:16px;
+	width:400px;
+	height:55px;
+}
+
+
+.content_main_right_btn
+{
+	width:500px;
+	height:500px;
+}
+
+.content_main_right_btn_check
+{
+	float:left;
+	margin-top:60px;
+	margin-left:180px;
+	color:#FFF;
+	width:60px;
+	height:40px;
+	background:#517aba;
+	line-height:37px;
+	font-size:16px;
+	font-weight: bold;
+}
+
+.content_main_right_btn_check2
+{
+	float:left;
+	margin-top:60px;
+	margin-left:100px;
+	color:#FFF;
+	width:60px;
+	height:40px;
+	background:#517aba;
+	line-height:37px;
+	font-size:16px;
+	font-weight: bold;
+}

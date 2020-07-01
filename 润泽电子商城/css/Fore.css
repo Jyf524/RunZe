@@ -1,0 +1,136 @@
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+	font-family:'微软雅黑';
+	font-size:12px;
+}
+#header {
+	background:#CCC;
+	float:left;
+	width:100%;
+	height:50px;
+}
+.header_word {
+	margin-left:20%;
+	margin-top:20px;
+	float:left;
+	width:70px;
+	height:20px;
+}
+.header_word2 {
+	margin-left:40%;
+	margin-top:20px;
+	float:left;
+	width:70px;
+	height:20px;
+}
+.header_word3 {
+	margin-left:10px;
+	margin-top:20px;
+	float:left;
+	width:70px;
+	height:20px;
+}
+.header_word4 {
+	margin-left:10px;
+	margin-top:20px;
+	float:left;
+	width:70px;
+	height:20px;
+}
+.header_search_k {
+	margin-top:10px;
+	float:left;
+	width:100%;
+	height:100px;
+}
+.header_Logo {
+	margin-top:15px;
+	margin-left:15%;
+	float:left;
+	width:69px;
+	height:75px;
+}
+.header_word1 {
+	margin-top:15px;
+	font-size:24px;
+	float:left;
+	width:125px;
+	height:75px;
+}
+
+.header_search
+{
+	background:#36c7fc;
+	margin-left:25%;
+	margin-top:15px;
+	float:left;
+	width:385px;
+	height:65px;
+	}
+	
+.banner
+{
+	background:#CCC;
+	float:left;
+	width:100%;
+	height:300px;
+	}
+#content {
+	float:left;
+	width:100%;
+	height:900px;
+}
+
+#footer
+{
+	width:100%;
+	height:100px;
+	float:left;
+}
+	
+.footer_copyright
+{
+	line-height:7px;
+	margin-left:700px;
+	font-size:10px;
+	width:500px;
+	height:100px;
+	float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

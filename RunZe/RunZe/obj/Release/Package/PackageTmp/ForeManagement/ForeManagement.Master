@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ForeManagement.Master.cs" Inherits="RunZe.ForeManagement.Site1" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../css/style2.css" rel="stylesheet" />
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
+            <Scripts>
+                <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.Core.js"></asp:ScriptReference>
+                <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.jQuery.js"></asp:ScriptReference>
+                <asp:ScriptReference Assembly="Telerik.Web.UI" Name="Telerik.Web.UI.Common.jQueryInclude.js"></asp:ScriptReference>
+            </Scripts>
+        </telerik:RadScriptManager>
+        <div id="header_kk">
+            <div id="header">
+                <div class="header_k">
+                    <div class="header_word">
+                        <a href="../Login.aspx">
+                            <asp:Label ID="Label1" runat="server"></asp:Label></a>
+                        <a href="/Foremanagement/VIP_Regsiter.aspx">
+                            <asp:Label ID="Label2" runat="server" Text="注册"></asp:Label></a>
+                        <a href="#">
+                            <asp:Label ID="Label3" runat="server" Text="欢迎回来"></asp:Label></a>
+                        <asp:LinkButton ID="LinkButton1" CssClass="link" runat="server" OnClick="LinkButton1_Click">
+                            <asp:Label ID="Label4" runat="server" CssClass="link" Text="注销"></asp:Label>
+                        </asp:LinkButton>
+                    </div>
+                    <div class="header_word2">
+                        <a href="/ForeManagement/ForeMyOrder.aspx">我的订单</a>  
+                    </div>
+                    <div class="header_word3">
+                        <a href="/ForeManagement/ShoppingCart.aspx">购物车</a> 
+                    </div>
+                    <div class="header_word4">
+                        <a href="/ForeManagement/ForeCollect.aspx">收藏夹</a> 
+                    </div>
+                    <div class="header_word5">
+                        <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click">个人中心</asp:LinkButton>
+                    </div>
+                </div>
+                <div id="header_search_kk">
+                    <div class="header_search_k">
+                        <div class="header_Logo">
+                            <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="../image/Logo.PNG" OnClick="ImageButton1_Click" />
+                        </div>
+                        <div class="header_word1">
+                            润泽电商
+                    <br />
+                            RunZe.com
+                        </div>
+
+                        <div class="header_search">
+                            <div class="header_search_input">
+                                <telerik:RadTextBox ID="RadTextBox1" runat="server" Height="32px" Width="261px"></telerik:RadTextBox>
+                            </div>
+                            <div class="header_search_word">
+                                <asp:Button CssClass="header_search_button" ID="Btn_search" runat="server" Text="搜索" OnClick="Btn_search_Click" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <div id="footer_kk">
+            <div id="footer_k">
+                <div id="footer">
+                    <div class="footer_copyright">
+                        <p>请使用 1024*768 IE7.0 或更高版本浏览器浏览本站点, 以保证最佳阅读效果</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司电话: 010-88588888/22/23/24/25 公司传真: 86-10-88588888</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;客服热线: 800-810-1118/400-810-1118  E-mail：yi@163.com </p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © Copyright  2011 润泽电子商城 版权所有 All Rights Reserved</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;京ICP证354878号 经营许可证&nbsp;<img src="../image/copyright.png" width="128" height="47" />&nbsp;&nbsp;&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

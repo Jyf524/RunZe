@@ -1,0 +1,128 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: '微软雅黑';
+    font-size: 12px;
+    min-width:1600px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+
+#header_kk {
+    width:100%;
+    margin:auto;
+    height: 150px;
+    float:left;
+}
+
+.header_k {
+    width:100%;
+    margin:auto;
+    background: #CCC;
+    height: 50px;
+    float:left;
+}
+
+
+#header {
+    height: 150px;
+    margin:0 auto;
+}
+
+.header_word {
+    margin-top: 20px;
+    float: left;
+    width: 200px;
+    height: 20px;
+}
+
+.header_word2 {
+    margin-top: 20px;
+    float: right;
+    width: 70px;
+    height: 20px;
+}
+
+.header_word3 {
+    margin-top: 20px;
+    float: right;
+    width: 70px;
+    height: 20px;
+}
+
+.header_word4 {
+    margin-top: 20px;
+    float: right;
+    width: 70px;
+    height: 20px;
+}
+
+.header_word5 {
+    margin-top: 20px;
+    float: left;
+    width: 70px;
+    height: 20px;
+}
+
+.header_search_k {
+    margin-top: 10px;
+    margin:auto;
+    width: 1200px;
+    height: 100px;
+}
+
+.header_Logo {
+    margin-top: 10px;
+    float: left;
+    width: 69px;
+    height: 75px;
+}
+
+.header_word1 {
+    margin-top: 2.25%;
+    font-size: 24px;
+    float: left;
+    width: 125px;
+    height: 75px;
+}
+
+#header_search_kk {
+    width:100%;
+    margin:auto;
+    height: 100px;
+    float:left;
+}
+
+.header_search {
+    margin-top: 15px;
+    float: right;
+    width: 385px;
+    height: 65px;
+}
+
+.header_search_input {
+    margin-left: 20px;
+    margin-top: 15px;
+    float: left;
+    width: 150px;
+    height: 65px;
+}
+
+.header_search_button {
+    float: left;
+    color: #FFF;
+    width: 50px;
+    height: 40px;
+    background: #0065a5;
+    font-size: 14px;
+    margin-left: 35%;
+    margin-top: 3%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: none;
+}

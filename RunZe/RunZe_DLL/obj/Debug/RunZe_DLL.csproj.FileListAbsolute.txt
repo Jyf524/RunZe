@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\RunZe_DLL.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\RunZe_DLL.pdb
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\Maticsoft.Common.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\bin\Debug\Telerik.Web.UI.Skins.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.dll
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.pdb
+C:\Users\Administrator\Desktop\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\润泽\RunZe\RunZe_DLL\bin\Debug\RunZe_DLL.dll
+C:\Users\Administrator\Desktop\润泽\RunZe\RunZe_DLL\bin\Debug\RunZe_DLL.pdb
+C:\Users\Administrator\Desktop\润泽\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\润泽\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.dll
+C:\Users\Administrator\Desktop\润泽\RunZe\RunZe_DLL\obj\Debug\RunZe_DLL.pdb
